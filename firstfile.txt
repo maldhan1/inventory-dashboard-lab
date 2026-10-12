@@ -8,6 +8,7 @@
 
     <p>Git Training Project - Version 1</p>
     <p>Inventory system is under development.</p>
+    <p>Inventory COPY 3rd line </p>
 </body>
 </html>
 

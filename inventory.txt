@@ -1,0 +1,5 @@
+Item: Laptop
+Quantity: 15
+Location: Warehouse-A
+Status: Available
+

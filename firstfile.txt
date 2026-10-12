@@ -5,7 +5,9 @@
 </head>
 <body>
     <h1>Inventory Dashboard</h1>
+
     <p>Git Training Project - Version 1</p>
+    <p>Inventory system is under development.</p>
 </body>
 </html>
 
